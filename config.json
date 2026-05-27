@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrender",
+        "uuid": 2251970,
+        "checksum": "kq364g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
